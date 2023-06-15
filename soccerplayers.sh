@@ -11,6 +11,5 @@ Ilkay Gundogan
 Riyhad Mahrez
 John Stones
 Ruben Dias
-Palmer
-Lewis
-Juilian Alvarz
+Laporte
+Julian Alvarez
